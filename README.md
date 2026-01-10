@@ -31,6 +31,7 @@
   <li>🌱 Incoming Software Engineer Intern @ <b>Microsoft</b> (Azure Compute Capacity Infrastructure Service) - Summer 2026.</li>
   <li>🧪 Built systems across streaming ML (Kafka/Spark/K8s) and full-stack apps (React/Node/AWS).</li>
   <li>📌 Pinning my best work below—always open to collaboration.</li>
+  <li>🌱 Prev SWE Intern @  <a href="https://www.linkedin.com/company/finbud-ai/">FinBud AI</li>
 </ul>
 
 <br/>
@@ -87,7 +88,6 @@
   <li><b>CardioRisk MLOps Pipeline</b> — Streaming ML pipeline on Kubernetes (Kafka + Spark), MinIO (S3), Elasticsearch; orchestration with Kubeflow + serving with KServe.</li>
   <li><b>Task Manager</b> — Full-stack platform (React/Tailwind/Node/Express/MongoDB) with JWT APIs, AWS S3, real-time collaboration, and Gemini API features.</li>
   <li><b>ISU PULSE</b> — Campus platform with REST APIs + in-app AI chatbot using RAG + Qdrant.</li>
-  <li><b>FinBud</b> — Async investment research pipeline with FastAPI/Celery/Redis + real-time market data.</li>
 </ul>
 
 
