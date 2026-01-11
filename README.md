@@ -31,7 +31,7 @@
   <li>🌱 Incoming Software Engineer Intern @ <b>Microsoft</b> (Azure Compute Capacity Infrastructure Service) - Summer 2026.</li>
   <li>🧪 Built systems across streaming ML (Kafka/Spark/K8s) and full-stack apps (React/Node/AWS).</li>
   <li>📌 Pinning my best work below—always open to collaboration.</li>
-  <li>🌱 Prev SWE Intern @ <a href="https://www.linkedin.com/company/finbud-ai/">FinBud AI.</li>
+  <li>🌱 Prev SWE Intern @ <a href="https://www.linkedin.com/company/finbud-ai/">FinBud AI</li>.
 </ul>
 
 <br/>
