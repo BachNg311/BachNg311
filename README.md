@@ -90,30 +90,6 @@
   <li><b>ISU PULSE</b> — Campus platform with REST APIs + in-app AI chatbot using RAG + Qdrant.</li>
 </ul>
 
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BachNg311&repo=TaskManager&show_owner=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BachNg311&repo=CardioRisk-MLOps&show_owner=true" />
-</p>
-
-<hr/>
-
-<h2>GitHub Stats 📈</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BachNg311&show_icons=true&include_all_commits=true" alt="GitHub stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BachNg311&layout=compact" alt="Top languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=BachNg311" alt="GitHub streak" />
-</p>
-
-<hr/>
-
 <h2>Connect with me 🤝</h2>
 
 <p align="left">
