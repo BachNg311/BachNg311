@@ -28,10 +28,11 @@
 <ul>
   <li>🎓 Undergrad at Iowa State University (Computer Science + Data Science), Math minor.</li>
   <li>🔭 Interested in <b>ML infrastructure</b>, <b>distributed systems</b>, and building reliable, high-scale products.</li>
-  <li>🌱 Incoming Software Engineer Intern @ <a href="https://www.linkedin.com/company/microsoft/">Microsoft</li> (Azure Compute Capacity Infrastructure Service) - Summer 2026.</li>
+  <li>🌱 SDE Intern @ <a href="https://www.linkedin.com/company/amazon/">Amazon</a> (One Medical) - Fall 2026.</li>
+  <li>🌱 Software Engineer Intern @ <a href="https://www.linkedin.com/company/microsoft/">Microsoft</a> (Azure Buildout) - Summer 2026.</li>
   <li>🧪 Built systems across streaming ML (Kafka/Spark/K8s) and full-stack apps (React/Node/AWS).</li>
   <li>📌 Pinning my best work below—always open to collaboration.</li>
-  <li>🌱 Prev SWE Intern @ <a href="https://www.linkedin.com/company/finbud-ai/">FinBud AI</li>
+  <li>🌱 Prev SWE Intern @ <a href="https://www.linkedin.com/company/finbud-ai/">FinBud AI</a></li>
 </ul>
 
 <br/>
